@@ -2063,7 +2063,8 @@ body {
   margin-bottom: 2rem;
 }
 .cid-rony6uc27l .mbr-section-subtitle {
-  color: #149dcc;
+  color: #232323;
+  text-align: right;
 }
 .cid-rony6uc27l a:not([href]):not([tabindex]) {
   color: #fff;
@@ -2074,6 +2075,9 @@ body {
 }
 .cid-rony6uc27l textarea.form-control {
   min-height: 188px;
+}
+.cid-rony6uc27l .mbr-section-subtitle B {
+  color: #c1c1c1;
 }
 .cid-rmU2P6Nsok {
   background: #ffffff;
